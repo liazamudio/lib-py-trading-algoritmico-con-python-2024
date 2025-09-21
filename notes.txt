@@ -1,7 +1,0 @@
-Para trabajar con esta carpeta tenemos que activar el entorno de trabajo usando cualquiera de los siguientes comandos:
-
-Windows PowerShell:
-env\Scripts\actívate
-
-Microsoft Git Bash
-source env/Scripts/activate
